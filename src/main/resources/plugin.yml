@@ -1,0 +1,8 @@
+name: MinePack
+version: 0.1
+authors: [OhYea777]
+main: com.ohyea777.minepack.MinePack
+
+commands:
+  minepack:
+    aliases: [mp]
